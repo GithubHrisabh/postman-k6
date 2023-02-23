@@ -1,5 +1,5 @@
 # postman-k6
-How to handle k6 and postman for complete load testing
+How to handle k6 and postman for complete load testing                                                                                                        
 Step 1: install k6 either using windows k6 manager(windows) or brew install k6 (macbook)                                                                                                                                   
 Step 2: Open Postman collection and export and store Collection.json and Environment.json in a folder                                                        
 Step 3:Install the postman-to-k6 tool:                                                                                                                     
